@@ -9,7 +9,9 @@
     "preview": "vite preview --host 127.0.0.1",
     "typecheck": "tsc -b",
     "test": "tsx --test tests/*.test.ts",
-    "verify:books": "node scripts/verify-textbooks.mjs"
+    "verify:books": "node scripts/verify-textbooks.mjs",
+    "prebuild": "node scripts/prepare-pdfjs.mjs",
+    "predev": "node scripts/prepare-pdfjs.mjs"
   },
   "dependencies": {
     "lucide-react": "0.468.0",

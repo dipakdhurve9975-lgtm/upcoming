@@ -5,3 +5,4 @@ artifacts/
 *.tsbuildinfo
 ncert chapters */
 .env*
+public/pdfjs/

@@ -24,7 +24,7 @@ npm run build
 npm run preview
 ```
 
-The production output is `dist/`. It contains the app and PDFs and can be served by an ordinary static host. No custom API, Python runtime, Windows paths, local spreadsheet, Codex runtime or environment secret is needed. Relative URLs support repository subpaths such as `/upcoming/`.
+The build automatically copies PDF.js character maps, fonts, image decoders and colour profiles from the locked dependency. The production output is `dist/`. It contains the app and PDFs and can be served by an ordinary static host. No custom API, Python runtime, Windows paths, local spreadsheet, Codex runtime or environment secret is needed. Relative URLs support repository subpaths such as `/upcoming/`.
 
 ## Experiences
 

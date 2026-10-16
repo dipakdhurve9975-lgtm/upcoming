@@ -65,4 +65,5 @@ Blender was not found in the inspected installed-software locations; no installa
 - Packaged all 31 PDFs in public/textbooks and changed chapter file metadata to portable paths. Original filenames remain provenance only.
 - Relative app, worker and textbook URLs work under the repository subpath. Added a deployment-path regression test and hash verification for the hosted PDFs.
 - Added a GitHub Pages workflow with locked installation, PDF hash checks, tests, build and deployment. No database or spreadsheet is required; user progress remains browser-local.
-- Repository/site creation and live verification pending at preparation time.
+- Public repository created: https://github.com/dipakdhurve9975-lgtm/upcoming . The initial GitHub Actions build, source-hash verification, 21 tests and Pages deployment succeeded. Live site: https://dipakdhurve9975-lgtm.github.io/upcoming/ .
+- PDF.js updated to 6.4.299; dependency audit reports zero vulnerabilities. Font, CMap, colour-profile and image-decoder resources are generated from the locked dependency for complete static serving. Browser production preview verified notes and animated 3D under /upcoming/.
