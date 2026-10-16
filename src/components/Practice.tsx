@@ -1,0 +1,20 @@
+import {useState} from 'react';
+import {ArrowRight,Check,ChevronDown,Lightbulb,RotateCcw,X,BookOpen} from 'lucide-react';
+import type {Attempt,Question} from '../content/types';
+import {score} from '../lib/progress';
+export default function Practice({questions,attempts,onAttempt,onReset,onDemo}:{questions:Question[];attempts:Record<string,Attempt>;onAttempt:(id:string,a:Attempt)=>void;onReset:(ids:string[])=>void;onDemo:()=>void}) {
+ const [index,setIndex]=useState(0);const [selected,setSelected]=useState<number|null>(null);const [hint,setHint]=useState(false);
+ const stats=score(questions,attempts); const current=questions[index];
+ const go=(i:number)=>{setIndex(i);setSelected(null);setHint(false);};
+ if(!current)return <div className="practice-empty"><BookOpen size={30}/><h3>Read at your own pace.</h3><p>Practice hasn’t been prepared for this page yet. The membrane section has eight original questions linked to pages 93–94.</p><button className="primary" onClick={onDemo}>Go to the learning section <ArrowRight size={16}/></button></div>;
+ const answer=attempts[current.id];const picked=answer?answer.selected:selected;
+ return <div className="practice-content"><div className="practice-status"><span><b>{stats.reviewed}</b> / {questions.length} reviewed</span><span>{stats.correct} / {stats.attempted} correct</span></div><div className="thin-progress"><i style={{width:`${stats.reviewed/questions.length*100}%`}}/></div>
+ <div className="question-nav" aria-label="Choose question">{questions.map((q,i)=><button key={q.id} aria-label={`Question ${i+1}`} aria-current={i===index?'step':undefined} className={i===index?'current':attempts[q.id]?'done':''} onClick={()=>go(i)}>{attempts[q.id]?.status==='checked'?<Check size={14}/>:String(i+1).padStart(2,'0')}</button>)}</div>
+ <div className="question-card"><div className="eyebrow">QUESTION {String(index+1).padStart(2,'0')} <span className="difficulty">{current.difficulty}</span></div><h3>{current.text}</h3><div className="options" role="radiogroup" aria-label="Answer options">{current.options.map((option,i)=>{
+ const correct=!!answer&&i===current.correct;const wrong=!!answer&&picked===i&&i!==current.correct;
+ return <button key={option} role="radio" aria-checked={picked===i} disabled={!!answer} className={`option ${picked===i?'selected':''} ${correct?'correct':''} ${wrong?'incorrect':''}`} onClick={()=>setSelected(i)}><span className="letter">{String.fromCharCode(65+i)}</span><span>{option}</span>{correct?<Check size={17}/>:wrong?<X size={17}/>:null}</button>;
+ })}</div><button className="hint-toggle" aria-expanded={hint} onClick={()=>setHint(!hint)}><Lightbulb size={15}/> {hint?'Hide hint':'Need a hint?'}<ChevronDown size={14}/></button>{hint&&<p className="hint">{current.hint}</p>}
+ {!answer?<div className="answer-actions"><button className="primary" disabled={picked===null} onClick={()=>onAttempt(current.id,{selected:picked,status:'checked'})}>Check answer <ArrowRight size={16}/></button><button className="text-button" onClick={()=>onAttempt(current.id,{selected:null,status:'revealed'})}>Reveal answer</button></div>:<div className={`feedback ${answer.status==='checked'&&answer.selected!==current.correct?'miss':''}`} aria-live="polite"><strong>{answer.status==='revealed'?'Answer revealed · not scored':answer.selected===current.correct?'That’s correct.':'A good moment to revisit the page.'}</strong><p>{current.explanation}</p><span>NCERT · p. {current.source.printedPage} · §{current.source.section}</span></div>}
+ <div className="question-footer"><span>{current.concept}</span>{index<questions.length-1&&<button className="text-button" onClick={()=>go(index+1)}>Next question <ArrowRight size={15}/></button>}</div></div>
+ <p className="practice-source">Original NCERT-based practice · Not an official PYQ<br/>Class 11 · Chapter 8 · PDF page {current.source.pdfPage}</p>{stats.reviewed>0&&<button className="text-button reset-practice" onClick={()=>{onReset(questions.map(q=>q.id));go(0);}}><RotateCcw size={14}/> Retry this page</button>}</div>;
+}

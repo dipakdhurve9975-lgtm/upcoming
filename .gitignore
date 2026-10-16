@@ -1,0 +1,7 @@
+node_modules/
+dist/
+references/
+artifacts/
+*.tsbuildinfo
+ncert chapters */
+.env*

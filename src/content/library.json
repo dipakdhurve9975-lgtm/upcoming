@@ -1,0 +1,4590 @@
+[
+  {
+    "id": "bio-11-01",
+    "class": 11,
+    "subject": "Biology",
+    "number": 1,
+    "title": "The Living World",
+    "file": "public/textbooks/bio-11-01.pdf",
+    "pageCount": 9,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "e6b49c5eb878864ef1bd714799588fbf2f55afb30d72cac25e08bc5eab7778fd",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 1,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 2,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 3,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 4,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 5,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 6,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 7,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 8,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.1.",
+          "Figure 1.1. Can you recall the basis",
+          "Figure 1.1 Taxonomic"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 9,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 1_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-02",
+    "class": 11,
+    "subject": "Biology",
+    "number": 2,
+    "title": "Biological Classification",
+    "file": "public/textbooks/bio-11-02.pdf",
+    "pageCount": 13,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "7952d430151a776694c6c58518c332d20ff76f9758ccf44d8b1a7fe29fef36c9",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 10,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 11,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 12,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.1 Bacteria of different shapes",
+          "Figure 2.1)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 13,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.2 A filamentous blue-green",
+          "Figure 2.2). The"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 14,
+        "mapping": "header",
+        "figures": [
+          "Figure\r\n2.3). Sometimes, under unfavourable conditions,",
+          "Figure 2.3 A dividing bacterium"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 15,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.4b).",
+          "Figure 2.4 (a) Dinoflagellates"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 16,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.4d)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 17,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.5a), Rhizopus (the bread",
+          "Figure 2.5 Fungi: (a) Mucor"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 18,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.5b), Claviceps and Neurospora.",
+          "Figure 2.5c), Ustilago (smut)"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 19,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 20,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.6a). These were found to be smaller than bacteria",
+          "Figure 2.6b). The protein coat",
+          "Figure 2.6 (a) Tobacco Mosaic Virus (TMV) (b) Bacteriophage"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 21,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 22,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 2_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-03",
+    "class": 11,
+    "subject": "Biology",
+    "number": 3,
+    "title": "Plant Kingdom",
+    "file": "public/textbooks/bio-11-03.pdf",
+    "pageCount": 14,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "fefd9d98cd6dc4155aa8b7706f0db887c8f2017dd9cef26bcb049a085c871e9b",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 23,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 24,
+        "mapping": "header",
+        "figures": [
+          "Figure 3.1). A few of the marine forms such as kelps, form massive plant"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 25,
+        "mapping": "header",
+        "figures": [
+          "Figure 3.1 Algae : (a) Green algae (i) Volvox (ii) Ulothrix"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 26,
+        "mapping": "header",
+        "figures": [
+          "Figure 3.1a)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 27,
+        "mapping": "header",
+        "figures": [
+          "Figure 3.1b)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 28,
+        "mapping": "header",
+        "figures": [
+          "Figure 3.1c), Gracilaria and Gelidium.",
+          "Figure 3.2).",
+          "Figure 3.2 Bryophytes: A liverwort – Marchantia (a) Female thallus (b) Male thallus"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 29,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 30,
+        "mapping": "header",
+        "figures": [
+          "Figure 3.2).",
+          "Figure 3.3). These organs possess well-differentiated"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 31,
+        "mapping": "header",
+        "figures": [
+          "Figure 3.3 Pteridophytes : (a) Selaginella (b) Equisetum (c) Fern (d) Salvinia"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 32,
+        "mapping": "header",
+        "figures": [
+          "Figure 3.4). One of the gymnosperms, the giant"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 33,
+        "mapping": "header",
+        "figures": [
+          "Figure 3.4 Gymnosperms: (a) Cycas"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 34,
+        "mapping": "header",
+        "figures": [
+          "Figure 3.5).",
+          "Figure 3.5 Angiosperms : (a) A dicotyledon (b) A monocotyledon"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 35,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": 36,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 3_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-04",
+    "class": 11,
+    "subject": "Biology",
+    "number": 4,
+    "title": "Animal Kingdom",
+    "file": "public/textbooks/bio-11-04.pdf",
+    "pageCount": 18,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "5eed592711d3c76a97310f410ce9b8b98db904afcc4ab9b8a38f37022c96a78a",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 37,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 38,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.1a).",
+          "Figure 4.1b).",
+          "Figure 4.2a).",
+          "Figure 4.2 Showing germinal layers :",
+          "Figure 4.1 (b) Bilateral symmetry",
+          "Figure 4.1 (a) Radial symmetry"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 39,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.3a). In",
+          "Figure 4.3b). The animals in",
+          "Figure 4.3c).",
+          "Figure 4.3 Diagrammatic sectional view of :",
+          "Figure 4.2b).",
+          "Figure 4.4."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 40,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.5). These are",
+          "Figure 4.4 Broad classification of Kingdom Animalia based on common fundamental features",
+          "Figure 4.5 Examples of Porifera : (a) Sycon"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 41,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.7). Cnidarians",
+          "Figure 4.6). The former",
+          "Figure 4.7",
+          "Figure 4.6 Examples of Coelenterata indicating outline of their body form :",
+          "Figure 4.6). The name cnidaria is derived from the"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 42,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.8). Digestion is both extracellular and",
+          "Figure 4.9). These are mostly endoparasites found",
+          "Figure 4.8 Example of",
+          "Figure 4.9 Examples of Platyhelminthes : (a) Tape worm (b) Liver fluke"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 43,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.10). They may be freeliving, aquatic",
+          "Figure 4.11).",
+          "Figure 4.11 Examples of Annelida : (a) Nereis",
+          "Figure 4.10 Example of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 44,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.12).",
+          "Figure 4.13). Molluscs are terrestrial or aquatic",
+          "Figure 4.12 Examples of Arthropoda :",
+          "Figure 4.13 Examples of Mollusca :"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 45,
+        "mapping": "header",
+        "figures": [
+          "Figure\r\n4.14). All are marine with organ-system level of organisation.",
+          "Figure 4.15).",
+          "Figure 4.14 Examples of",
+          "Figure 4.15 Balanoglossus"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 46,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.16). These are bilaterally",
+          "Figure 4.17) and are",
+          "Figure 4.16 Chordata characteristics",
+          "Figure 4.17 Ascidia"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 47,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.19). Mouth is located ventrally.",
+          "Figure 4.18 A jawless vertebrate - Petromyzon",
+          "Figure 4.19 Example of Cartilaginous fishes :"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 48,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.20). They have four pairs of",
+          "Figure 4.21). Most of them have two pairs of",
+          "Figure 4.21 Examples of Amphibia :",
+          "Figure 4.20 Examples of Bony fishes :"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 49,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.23). The forelimbs are modified into wings. The hind limbs",
+          "Figure 4.22 Reptiles: (a) Chameleon (b) Crocodilus (c) Chelone (d) Naja"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": 50,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.24). The skin of",
+          "Figure 4.23 Some birds : (a) Neophron (b) Struthio (c) Psittacula (d) Pavo",
+          "Figure 4.24 Some mammals : (a) Ornithorhynchus (b) Macropus (c) Pteropus (d) Balaenoptera"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 15,
+        "printedPage": 51,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 16,
+        "printedPage": 52,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 17,
+        "printedPage": 53,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 18,
+        "printedPage": 54,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 4_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-05",
+    "class": 11,
+    "subject": "Biology",
+    "number": 5,
+    "title": "Morphology of Flowering Plants",
+    "file": "public/textbooks/bio-11-05.pdf",
+    "pageCount": 16,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "2e9b46c03dda48adb6663a88ce49803e18fe87caba96aa4a173ad1cc9a6eea11",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 55,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 56,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 57,
+        "mapping": "sequence-inferred",
+        "figures": [
+          "Figure 5.1)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 58,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.2 Different types of roots : (a) Tap (b) Fibrous (c) Adventitious",
+          "Figure 5.1 Parts of a flowering plant",
+          "Figure 5.2a). In monocotyledonous",
+          "Figure\r\n5.2b). In some plants, like grass,",
+          "Figure 5.2c). The main functions of the"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 59,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.3). It",
+          "Figure 5.3 The regions of the root-tip"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 60,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.4 a). The leaf is",
+          "Figure 5.4 b). When the veins run",
+          "Figure 5.4 c). Leaves of",
+          "Figure 5.5). In a pinnately compound leaf a",
+          "Figure 5.4 Structure of a leaf :",
+          "Figure 5.5 Compound leaves :"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 61,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.6). In alternate type of",
+          "Figure 5.7).",
+          "Figure 5.8).",
+          "Figure 5.6 Different types of phyllotaxy :",
+          "Figure 5.7 Racemose inflorescence"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 62,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.8 Cymose inflorescence",
+          "Figure 5.9 Position of floral parts on thalamus : (a) Hypogynous (b) and (c)"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 63,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.9). In the hypogynous flower the",
+          "Figure 5.10).",
+          "Figure 5.10 Parts of a flower"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 64,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.11). When sepals or petals in a whorl just touch",
+          "Figure 5.11 Types of aestivation in corolla : (a) Valvate (b) Twisted (c) Imbricate (d) Vexillary"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 65,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.12).",
+          "Figure\r\n5.13). They develop from monocarpellary superior ovaries and are",
+          "Figure 5.12 Types of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 66,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.14 Structure of dicotyledonous seed",
+          "Figure 5.14). In some seeds such",
+          "Figure 5.13 Parts of a fruit : (a) Mango (b) Coconut"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 67,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.15 Structure of a monocotyledonous seed",
+          "Figure 5.15).",
+          "Figure 5.16 Floral diagram with"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": 68,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.16). The position of the mother axis with respect to the",
+          "Figure 5.16 represents",
+          "Figure 5.17).",
+          "Figure 5.17 Solanum nigrum (makoi) plant : (a) Flowering twig (b) Flower"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 15,
+        "printedPage": 69,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 16,
+        "printedPage": 70,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 5_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-06",
+    "class": 11,
+    "subject": "Biology",
+    "number": 6,
+    "title": "Anatomy of Flowering Plants",
+    "file": "public/textbooks/bio-11-06.pdf",
+    "pageCount": 8,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "b341d037ddeaebcf435cea4ca5050bee10fae452d9c20480d639ab2580fa5b66",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 71,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 72,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.1).",
+          "Figure 6.1 Diagrammatic representation: (a) stomata with bean-shaped guard cells"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 73,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.2). In dicotyledonous stems,",
+          "Figure 6.3 (a), it shows the transverse",
+          "Figure 6.2 Various types of vascular bundles :"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 74,
+        "mapping": "header",
+        "figures": [
+          "Figure\r\n6.3 b).Ithas epidermis, cortex, endodermis,",
+          "Figure 6.3 T.S. : (a) Dicot root (Primary)"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 75,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.4 a). Covered with a thin layer of cuticle, it may bear trichomes and",
+          "Figure 6.4 T.S. of stem : (a) Dicot (b) Monocot"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 76,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.5 T.S. of leaf : (a) Dicot (b) Monocot",
+          "Figure\r\n6.4 b). Vascular bundles are conjoint and"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 77,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.5 (a) and find the position of xylem in the vascular bundle.",
+          "Figure 6.5 b)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 78,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 6_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-07",
+    "class": 11,
+    "subject": "Biology",
+    "number": 7,
+    "title": "Structural Organisation in Animals",
+    "file": "public/textbooks/bio-11-07.pdf",
+    "pageCount": 6,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "75fd54a68b18b84f22e659695e28e32ebdc3f1de8be50ea38bed778b9ebcef26",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 79,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 80,
+        "mapping": "header",
+        "figures": [
+          "Figure 7.1). A neck and tail are absent. Above the",
+          "Figure 7.1 External features of frog signals. The forelimbs and hind limbs help in"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 81,
+        "mapping": "header",
+        "figures": [
+          "Figure 7.2).",
+          "Figure 7.2 Diagrammatic representation of internal organs of frog showing"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 82,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 83,
+        "mapping": "header",
+        "figures": [
+          "Figure\r\n7.3), which are found adhered to the upper part",
+          "Figure 7.3 Male reproductive system",
+          "Figure 7.4 Female reproductive system"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 84,
+        "mapping": "header",
+        "figures": [
+          "Figure 7.4)."
+        ],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 7_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-08",
+    "class": 11,
+    "subject": "Biology",
+    "number": 8,
+    "title": "Cell: The Unit of Life",
+    "file": "public/textbooks/bio-11-08.pdf",
+    "pageCount": 19,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "6771c5ae1d6468e6585a5531d9a64cf06478d7ed05bb630eccd2b9a229ee2c28",
+    "syllabusStatus": "Selected section verified; other topics pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 85,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 86,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 87,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 88,
+        "mapping": "header",
+        "figures": [
+          "Figure 8.1). For example,"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 89,
+        "mapping": "sequence-inferred",
+        "figures": [
+          "Figure 8.1 Diagram showing different shapes of the cells",
+          "Figure 8.2). They may vary greatly in shape and size. The four basic"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 90,
+        "mapping": "header",
+        "figures": [
+          "Figure 8.2 Diagram showing comparison of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 91,
+        "mapping": "sequence-inferred",
+        "figures": [
+          "Figure 8.3)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 92,
+        "mapping": "header",
+        "figures": [
+          "Figure 8.3 Diagram showing : (a) Plant cell (b) Animal cell"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 93,
+        "mapping": "sequence-inferred",
+        "figures": [
+          "Figure 8.4).",
+          "Figure 8.4 Fluid mosaic model of plasma membrane"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 94,
+        "mapping": "header",
+        "figures": [
+          "Figure 8.4). According to this, the quasi-fluid nature of lipid enables"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 95,
+        "mapping": "sequence-inferred",
+        "figures": [
+          "Figure 8.5). Hence, ER divides the intracellular",
+          "Figure 8.6). These are",
+          "Figure 8.5 Endoplasmic reticulum",
+          "Figure 8.6 Golgi apparatus"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 96,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 97,
+        "mapping": "sequence-inferred",
+        "figures": [
+          "Figure 8.7). The cristae",
+          "Figure 8.7 Structure of mitochondrion (Longitudinal section)"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": 98,
+        "mapping": "header",
+        "figures": [
+          "Figure 8.8). Thylakoids are arranged in stacks like the piles of coins called",
+          "Figure 8.8 Sectional view of chloroplast",
+          "Figure 8.9 Ribosome"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 15,
+        "printedPage": 99,
+        "mapping": "sequence-inferred",
+        "figures": [
+          "Figure 8.10). The central tubules are connected by bridges and is also",
+          "Figure 8.10 Section of cilia/flagella showing different parts : (a) Electron micrograph"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 16,
+        "printedPage": 100,
+        "mapping": "header",
+        "figures": [
+          "Figure 8.11).",
+          "Figure 8.11 Structure of nucleus"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 17,
+        "printedPage": 101,
+        "mapping": "sequence-inferred",
+        "figures": [
+          "Figure 8.12 Chromosome with",
+          "Figure 8.13 Types of chromosomes based on the position of centromere",
+          "Figure 8.12). Centromere holds",
+          "Figure 8.13). The metacentric chromosome"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 18,
+        "printedPage": 102,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 19,
+        "printedPage": 103,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 8_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-09",
+    "class": 11,
+    "subject": "Biology",
+    "number": 9,
+    "title": "Biomolecules",
+    "file": "public/textbooks/bio-11-09.pdf",
+    "pageCount": 16,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "facdbbffa75e8355a1af5362a4e190826352f934bb4c0a6eb2dbb9ccffcf66f5",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 104,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 105,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.1) and inorganic constituents (Table 9.2)"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 106,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.1."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 107,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.1 Diagrammatic representation of small molecular weight organic"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 108,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.1. These are primary"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 109,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.3."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 110,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.2 Diagrammatic representation of a portion of glycogen",
+          "Figure 9.2). Starch forms helical"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 111,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.1, the heterocyclic compounds in nucleic",
+          "Figure 9.3 a) of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 112,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.3 Various levels of Protein Structure"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 113,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 114,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 115,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.4.",
+          "Figure 9.4 Concept of activation energy"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 116,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.5). Each enzyme shows its highest activity at a particular",
+          "Figure 9.5).",
+          "Figure 9.5 Effect of change in : (a) pH (b) Temperature and (c) Concentration of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": 117,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 15,
+        "printedPage": 118,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 16,
+        "printedPage": 119,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 9_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-10",
+    "class": 11,
+    "subject": "Biology",
+    "number": 10,
+    "title": "Cell Cycle and Cell Division",
+    "file": "public/textbooks/bio-11-10.pdf",
+    "pageCount": 11,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "1fbd61044264b30d19f075e4a9a15699b0d0f1d5c51cf094e4e9b18566bcb72c",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 120,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 121,
+        "mapping": "header",
+        "figures": [
+          "Figure 10.1).",
+          "Figure 10.1 A diagrammatic view of cell cycle"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 122,
+        "mapping": "header",
+        "figures": [
+          "Figure 10.2 a). The centrosome, which had"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 123,
+        "mapping": "header",
+        "figures": [
+          "Figure 10.2 b). Small disc-shaped",
+          "Figure 10.2 b).",
+          "Figure 10.2 c). Thus, anaphase stage is characterised by Figure 10.2 a and b : A diagrammatic"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 124,
+        "mapping": "header",
+        "figures": [
+          "Figure 10.2 d). This is the stage which shows the following",
+          "Figure 10.2 e). In an animal cell,",
+          "Figure 10.2 c to e : A diagrammatic"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 125,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 126,
+        "mapping": "header",
+        "figures": [
+          "Figure 10.3). The microtubules from the opposite poles of the spindle"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 127,
+        "mapping": "header",
+        "figures": [
+          "Figure 10.3).",
+          "Figure 10.3).",
+          "Figure 10.4). The chromosomes again become",
+          "Figure 10.4) of sister chromatids.",
+          "Figure 10.4) by",
+          "Figure 10.3 Stages of Meiosis I"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 128,
+        "mapping": "header",
+        "figures": [
+          "Figure 10.4).",
+          "Figure 10.4 Stages of Meiosis II"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 129,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 130,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 10_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-12",
+    "class": 11,
+    "subject": "Biology",
+    "number": 12,
+    "title": "Respiration in Plants",
+    "file": "public/textbooks/bio-11-12.pdf",
+    "pageCount": 13,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "56aa058033d3b61ba9036d076058f752e96c2730bf7ef34a5beb83a913a672c3",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 153,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 154,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 155,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 156,
+        "mapping": "header",
+        "figures": [
+          "Figure 12.1.",
+          "Figure 12.1 Steps of glycolysis"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 157,
+        "mapping": "header",
+        "figures": [
+          "Figure 12.2. In animal cells also, like muscles",
+          "Figure 12.2 Major pathways of anaerobic"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 158,
+        "mapping": "header",
+        "figures": [
+          "Figure 12.3). The reaction is"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 159,
+        "mapping": "header",
+        "figures": [
+          "Figure 12.4) and it is",
+          "Figure 12.3 The Citric acid cycle"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 160,
+        "mapping": "header",
+        "figures": [
+          "Figure 12.4 Electron Transport System (ETS)"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 161,
+        "mapping": "header",
+        "figures": [
+          "Figure 12.5). The F1",
+          "Figure 12.5 Diagramatic presentation of ATP"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 162,
+        "mapping": "header",
+        "figures": [
+          "Figure\r\n12.6 to see the points of entry of different substrates in the respiratory"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 163,
+        "mapping": "header",
+        "figures": [
+          "Figure 12.6 Interrelationship among metabolic pathways showing respiration"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 164,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 165,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 12_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-13",
+    "class": 11,
+    "subject": "Biology",
+    "number": 13,
+    "title": "Plant Growth and Development",
+    "file": "public/textbooks/bio-11-13.pdf",
+    "pageCount": 15,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "f7b576963c4a1f1208fdc7df9e974781d7492a7150bcfdc33f27b71112057d26",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 166,
+        "mapping": "header",
+        "figures": [
+          "Figure 13.1). The first step in the"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 167,
+        "mapping": "header",
+        "figures": [
+          "Figure 13.1 Germination and seedling development in bean"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 168,
+        "mapping": "header",
+        "figures": [
+          "Figure 13.2).",
+          "Figure 13.3). Let us",
+          "Figure 13.2 Diagrammatic representation of",
+          "Figure 13.3 Detection of zones of elongation by"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 169,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 170,
+        "mapping": "header",
+        "figures": [
+          "Figure 13.4).",
+          "Figure 13.5. On plotting the length of the",
+          "Figure 13.6). A sigmoid curve",
+          "Figure 13.5 Constant linear growth, a plot",
+          "Figure 13.6 An idealised sigmoid growth"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 171,
+        "mapping": "header",
+        "figures": [
+          "Figure 13.7"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 172,
+        "mapping": "header",
+        "figures": [
+          "Figure\r\n13.8. It is also applicable to tissues/organs."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 173,
+        "mapping": "header",
+        "figures": [
+          "Figure 13.9). This",
+          "Figure 13.8 Sequence of the developmental process in a plant cell",
+          "Figure 13.9 Heterophylly in (a) larkspur and (b) buttercup"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 174,
+        "mapping": "header",
+        "figures": [
+          "Figure\r\n13.10). Auxin was isolated by F.W. Went from",
+          "Figure 13.10 Experiment used to demonstrate"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 175,
+        "mapping": "header",
+        "figures": [
+          "Figure 13.11). It is widely applied in tea plantations and"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 176,
+        "mapping": "header",
+        "figures": [
+          "Figure 13.11 Apical dominance in plants :"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 177,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 178,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": 179,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 15,
+        "printedPage": 180,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 13_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-14",
+    "class": 11,
+    "subject": "Biology",
+    "number": 14,
+    "title": "Breathing and Exchange of Gases",
+    "file": "public/textbooks/bio-11-14.pdf",
+    "pageCount": 12,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "67cbf04d59739585ea139446ba30a097e5d7a8a58d39d30cff4154f55686d7e1",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 181,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 182,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 183,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 184,
+        "mapping": "header",
+        "figures": [
+          "Figure\r\n14.1). We have two lungs which are covered by a double layered pleura,",
+          "Figure 14.1 Diagrammatic view of human respiratory system (sectional view of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 185,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 186,
+        "mapping": "header",
+        "figures": [
+          "Figure 14.2a). Relaxation of the",
+          "Figure 14.2b). We",
+          "Figure 14.2 Mechanism of breathing showing :"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 187,
+        "mapping": "header",
+        "figures": [
+          "Figure 14.3. The data given in the table clearly indicates a concentration"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 188,
+        "mapping": "header",
+        "figures": [
+          "Figure 14.4) namely, the thin squamous",
+          "Figure 14.4 A Diagram of a section of an",
+          "Figure 14.3 Diagrammatic representation of exchange of gases at the alveolus and"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 189,
+        "mapping": "header",
+        "figures": [
+          "Figure 14.5) and is highly",
+          "Figure 14.5 Oxygen dissociation curve"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 190,
+        "mapping": "header",
+        "figures": [
+          "Figure 14.4). Every 100 ml of deoxygenated"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 191,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 192,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 14_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-15",
+    "class": 11,
+    "subject": "Biology",
+    "number": 15,
+    "title": "Body Fluids and Circulation",
+    "file": "public/textbooks/bio-11-15.pdf",
+    "pageCount": 12,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "02f8cd8f5755ea09466487d6829b7c6ef1bece4550c582d391d03a937d8a0907",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 193,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 194,
+        "mapping": "header",
+        "figures": [
+          "Figure 15.1) and they constitute nearly 45 per cent of the blood.",
+          "Figure 15.1 Diagrammatic representation of formed elements in blood"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 195,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 196,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 197,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 198,
+        "mapping": "header",
+        "figures": [
+          "Figure 15.2). The atrium and the ventricle of the same side are also",
+          "Figure 15.2 Section of a human heart"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 199,
+        "mapping": "header",
+        "figures": [
+          "Figure 15.2). A"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 200,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 201,
+        "mapping": "header",
+        "figures": [
+          "Figure 15.3), a patient is connected to the",
+          "Figure\r\n15.4).",
+          "Figure 15.4). The systemic circulation provides",
+          "Figure 15.3 Diagrammatic presentation of a"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 202,
+        "mapping": "header",
+        "figures": [
+          "Figure 15.4 Schematic plan of blood circulation in human"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 203,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 204,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 15_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-16",
+    "class": 11,
+    "subject": "Biology",
+    "number": 16,
+    "title": "Excretory Products and their Elimination",
+    "file": "public/textbooks/bio-11-16.pdf",
+    "pageCount": 12,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "9d026ee91d3787c85ab1241c594463a8714e3a79b7515ead3e584a155c885cb3",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 205,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 206,
+        "mapping": "header",
+        "figures": [
+          "Figure\r\n16.1). Kidneys are reddish brown, bean",
+          "Figure 16.1 Human Urinary system"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 207,
+        "mapping": "header",
+        "figures": [
+          "Figure 16.3 A diagrammatic representation of a nephron showing blood vessels,",
+          "Figure 16.2).",
+          "Figure 16.3), which are the functional units.",
+          "Figure 16.4). The tubule",
+          "Figure 16.2 Longitudinal section (Diagrammatic)"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 208,
+        "mapping": "header",
+        "figures": [
+          "Figure 16.4 Malpighian body (renal corpuscle)"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 209,
+        "mapping": "header",
+        "figures": [
+          "Figure 16.5)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 210,
+        "mapping": "header",
+        "figures": [
+          "Figure 16.5).",
+          "Figure 16.5 Reabsorption and secretion of major substances at different parts of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 211,
+        "mapping": "header",
+        "figures": [
+          "Figure 16.6 Diagrammatic representation of a nephron and vasa recta showing"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 212,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 213,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 214,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 215,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 216,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 16_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-17",
+    "class": 11,
+    "subject": "Biology",
+    "number": 17,
+    "title": "Locomotion and Movement",
+    "file": "public/textbooks/bio-11-17.pdf",
+    "pageCount": 13,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "e30781cb81fcc69053eb2afb4c3db7716f0c503fefd9630fa4f78ffc5606c92f",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 217,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 218,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 219,
+        "mapping": "header",
+        "figures": [
+          "Figure 17.1). Each",
+          "Figure 17.1 Diagrammatic cross sectional view of a muscle showing muscle bundles"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 220,
+        "mapping": "header",
+        "figures": [
+          "Figure 17.2). In a resting state, the",
+          "Figure 17.2 Diagrammatic representation of (a) anatomy of a muscle fibre showing"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 221,
+        "mapping": "header",
+        "figures": [
+          "Figure 17.3a).",
+          "Figure 17.3b) constitute one",
+          "Figure 17.3 (a) An actin (thin) filament (b) Myosin monomer (Meromyosin)"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 222,
+        "mapping": "header",
+        "figures": [
+          "Figure 17.4).",
+          "Figure 17.5). The",
+          "Figure 17.4). The ATP is again",
+          "Figure 17.4 Stages in cross bridge formation, rotation of head and breaking of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 223,
+        "mapping": "header",
+        "figures": [
+          "Figure 17.5 Sliding-filament theory of muscle contraction (movement of the thin"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 224,
+        "mapping": "header",
+        "figures": [
+          "Figure 17.6) is composed of two",
+          "Figure 17.6 Diagrammatic view of human skull"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 225,
+        "mapping": "header",
+        "figures": [
+          "Figure 17.7) is",
+          "Figure 17.8).",
+          "Figure 17.7 Vertebral column (right lateral view)",
+          "Figure 17.8 Ribs and rib cage"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 226,
+        "mapping": "header",
+        "figures": [
+          "Figure 17.9 Right pectoral girdle and upper",
+          "Figure 17.9). Femur (thigh bone –",
+          "Figure\r\n17.10). A cup shaped bone called patella cover",
+          "Figure 17.9). Scapula is a large",
+          "Figure 17.10). Each coxal bone is formed by",
+          "Figure 17.10 Right pelvic girdle and lower limb"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 227,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 228,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 229,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 17_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-18",
+    "class": 11,
+    "subject": "Biology",
+    "number": 18,
+    "title": "Neural Control and Coordination",
+    "file": "public/textbooks/bio-11-18.pdf",
+    "pageCount": 9,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "93aaeaa048937d768c9fbfd26479b2976fa007c59333e300ccbf105430be0469",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 230,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 231,
+        "mapping": "header",
+        "figures": [
+          "Figure 18.1). The cell body contains cytoplasm"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 232,
+        "mapping": "header",
+        "figures": [
+          "Figure 18.1 Structure of a neuron"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 233,
+        "mapping": "header",
+        "figures": [
+          "Figure 18.2 e.g., point A) on the polarised membrane,",
+          "Figure 18.2) to complete",
+          "Figure 18.2 Diagrammatic representation of impulse conduction through an axon"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 234,
+        "mapping": "header",
+        "figures": [
+          "Figure 18.3). Do you know how the pre-synaptic neuron transmits an",
+          "Figure 18.3 Diagram showing axon terminal and synapse"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 235,
+        "mapping": "header",
+        "figures": [
+          "Figure 18.4).",
+          "Figure 18.4 Diagram showing sagital section of the human brain"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 236,
+        "mapping": "header",
+        "figures": [
+          "Figure 18.4). Cerebrum forms the major part of the human brain. A deep"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 237,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 238,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 18_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-11-19",
+    "class": 11,
+    "subject": "Biology",
+    "number": 19,
+    "title": "Chemical Coordination and Integration",
+    "file": "public/textbooks/bio-11-19.pdf",
+    "pageCount": 14,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "36961d654230fb419a07a7dd8a9200416e0ef475aec409a90cc567843fce4eb6",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 239,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 240,
+        "mapping": "header",
+        "figures": [
+          "Figure 19.1). In addition to these, some",
+          "Figure 19.1) and it regulates a wide",
+          "Figure 19.2).",
+          "Figure 19.1 Location of endocrine glands"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 241,
+        "mapping": "header",
+        "figures": [
+          "Figure 19.2). It is",
+          "Figure 19.2 Diagrammatic representation of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 242,
+        "mapping": "header",
+        "figures": [
+          "Figure 19.3 a). Both",
+          "Figure 19.3 Diagrammatic view of the"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 243,
+        "mapping": "header",
+        "figures": [
+          "Figure\r\n19.3 b). The parathyroid glands secrete a peptide hormone called"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 244,
+        "mapping": "header",
+        "figures": [
+          "Figure\r\n19.4 a). The gland is composed of two types of tissues. The centrally located",
+          "Figure 19.4 b).",
+          "Figure 19.4 Diagrammatic representation of : (a) Adrenal gland above kidney (b) Section"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 245,
+        "mapping": "header",
+        "figures": [
+          "Figure 19.1) which acts as both exocrine"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 246,
+        "mapping": "header",
+        "figures": [
+          "Figure 19.1). Testis performs dual functions as a primary",
+          "Figure 19.1). Ovary"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 247,
+        "mapping": "header",
+        "figures": [
+          "Figure 19.5 a, b). Each"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 248,
+        "mapping": "header",
+        "figures": [
+          "Figure\r\n19.5a). Hormones which interact with intracellular receptors (e.g., steroid",
+          "Figure 19.5b)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 249,
+        "mapping": "header",
+        "figures": [
+          "Figure 19.5 Diagramatic representation of the mechanism of hormone action :"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 250,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 251,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": null,
+        "mapping": "unknown",
+        "figures": [],
+        "hasText": false
+      }
+    ],
+    "originalFile": "ncert chapters 11th/Chapter 19_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-12-01",
+    "class": 12,
+    "subject": "Biology",
+    "number": 1,
+    "title": "Sexual Reproduction in Flowering Plants",
+    "file": "public/textbooks/bio-12-01.pdf",
+    "pageCount": 25,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "039bad8cf195a93b90fa7857eda95f39bdd4fd278b3c8bced235f3b6cd71c25c",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 1,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 2,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 3,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 4,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.1 will help you recall the parts of a",
+          "Figure 1.1 A diagrammatic representation of L.S. of a flower"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 5,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.2a shows the two parts of a typical stamen – the long and slender",
+          "Figure 1.2b). Often a longitudinal groove runs",
+          "Figure 1.3a). The bilobed nature of an anther is",
+          "Figure\r\n1.3b)– the epidermis, endothecium, middle layers and the tapetum. The",
+          "Figure 1.2 (a) A typical stamen;"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 6,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.3a). As the anthers mature and dehydrate, the microspores",
+          "Figure 1.3 b).",
+          "Figure 1.3c).",
+          "Figure 1.3 (a) Transverse section of a young anther; (b) Enlarged view of one microsporangium"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 7,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.4).",
+          "Figure 1.5b). The vegetative cell is bigger, has abundant",
+          "Figure 1.5 (a) Enlarged view of",
+          "Figure 1.4 Scanning electron micrographs of a few pollen grains (a)"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 8,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.7b) or may be",
+          "Figure 1.7c). Each pistil has three parts (Figure 1.7a),",
+          "Figure 1.6 Pollen products",
+          "Figure 1.6)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 9,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.7d). The ovule is a small",
+          "Figure 1.7 (a) A dissected flower of Hibiscus showing pistil (other floral parts have been removed);"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 10,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.8 (a) Parts of the ovule showing a large megaspore mother cell, a dyad and a tetrad of",
+          "Figure 1.8a)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 11,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.8b). The nucleus of the functional megaspore divides mitotically",
+          "Figure 1.8b, c). Six of the eight nuclei are surrounded by cell walls and",
+          "Figure 1.9a). In a normal flower which opens and"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 12,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.9c). In such flowers,",
+          "Figure\r\n1.9b). This is the only type of pollination which",
+          "Figure 1.9 (a) Self-pollinated flowers;"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 13,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.10) and large often-feathery stigma",
+          "Figure\r\n1.11a); some of them eventually reach the female flowers and the stigma.",
+          "Figure 1.10 A wind-pollinated plant showing"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": 14,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.11b). Among the",
+          "Figure 1.11 (a) Pollination by water in Vallisneria;"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 15,
+        "printedPage": 15,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 16,
+        "printedPage": 16,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.12a). The contents of the pollen grain move into the",
+          "Figure 1.12 (a) Pollen grains germinating on the stigma; (b) Pollen tubes growing through the"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 17,
+        "printedPage": 17,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.12b, c). You would recall that in",
+          "Figure 1.12d, e). Many recent"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 18,
+        "printedPage": 18,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.13 (a) Fertilised embryo sac showing zygote and Primary Endosperm Nucleus (PEN);",
+          "Figure 1.13a). As this involves the fusion of three haploid nuclei it"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 19,
+        "printedPage": 19,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.13 depicts the stages of embryogeny in",
+          "Figure 1.14a), consists",
+          "Figure 1.14 b) possess only",
+          "Figure 1.14 (a) A typical dicot"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 20,
+        "printedPage": 20,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.15a) of the embryo are simple structures,",
+          "Figure 1.15a). The micropyle remains as a small pore in the seed coat.",
+          "Figure 1.15b). Most fruits however"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 21,
+        "printedPage": 21,
+        "mapping": "header",
+        "figures": [
+          "Figure 1.15 (a) Structure of some seeds. (b) False fruits of apple and strawberry"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 22,
+        "printedPage": 22,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 23,
+        "printedPage": 23,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 24,
+        "printedPage": 24,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 25,
+        "printedPage": 25,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 12th/Chapter 1_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-12-02",
+    "class": 12,
+    "subject": "Biology",
+    "number": 2,
+    "title": "Human Reproduction",
+    "file": "public/textbooks/bio-12-02.pdf",
+    "pageCount": 15,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "af54d04d912114053befb30adf8e56580fe9ddb49c461160dba150a0d19a07a8",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 26,
+        "mapping": "sequence-inferred",
+        "figures": [
+          "Figure 2.1a). It includes a pair of testes alongwith"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 27,
+        "mapping": "sequence-inferred",
+        "figures": [
+          "Figure 2.1b).",
+          "Figure 2.2 ). The male germ cells",
+          "Figure 2.2). Leydig",
+          "Figure 2.1b). The seminiferous tubules of",
+          "Figure 2.1a). These",
+          "Figure 2.1(a) Diagrammatic sectional view of male pelvis",
+          "Figure 2.1(b) Diagrammatic view of male reproductive system"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 28,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.1a, b). It is made up",
+          "Figure 2.1a, b) include paired seminal",
+          "Figure 2.3a). These parts of the system alongwith a pair of the",
+          "Figure 2.3b). Each ovary is about 2 to 4 cm in length and is connected to",
+          "Figure 2.2 Diagrammatic sectional view of seminiferous tubule"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 29,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.3b), the part closer",
+          "Figure 2.3 (b) Diagrammatic sectional view of the female reproductive system",
+          "Figure 2.3 (a) Diagrammatic sectional view of female pelvis showing"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 30,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.3b) which alongwith vagina",
+          "Figure 2.3a). Mons pubis is a cushion of fatty",
+          "Figure 2.4 A diagrammatic sectional view of Mammary gland"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 31,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.4). The cells of alveoli secrete milk, which is stored",
+          "Figure 2.5). What would be the",
+          "Figure 2.5 Diagrammatic sectional view of a"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 32,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.6). A",
+          "Figure 2.7). A",
+          "Figure 2.8b). The",
+          "Figure 2.6 Structure of a sperm"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 33,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.7).",
+          "Figure 2.8).",
+          "Figure 2.7 Diagrammatic Section view of ovary",
+          "Figure 2.8 Schematic representation of (a) Spermatogenesis; (b) Oogenesis"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 34,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.9 Diagrammatic presentation of various events during a menstrual cycle",
+          "Figure 2.9. The cycle starts with the menstrual phase, when",
+          "Figure 2.9). The secretion of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 35,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.9). The corpus luteum secretes large amounts of",
+          "Figure 2.11b). The ovum released by the ovary is also",
+          "Figure 2.10) and induces",
+          "Figure 2.10 Ovum surrounded by few sperms"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 36,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.11 Transport of ovum, fertilisation and passage of growing embryo through fallopian tube",
+          "Figure 2.11) and forms"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 37,
+        "mapping": "header",
+        "figures": [
+          "Figure 2.11e). The morula continues to",
+          "Figure 2.11g) as it moves further",
+          "Figure 2.11 step H). This is called implantation",
+          "Figure 2.12).",
+          "Figure 2.12 The human foetus within the uterus"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 38,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": 39,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 15,
+        "printedPage": 40,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 12th/Chapter 2_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-12-03",
+    "class": 12,
+    "subject": "Biology",
+    "number": 3,
+    "title": "Reproductive Health",
+    "file": "public/textbooks/bio-12-03.pdf",
+    "pageCount": 10,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "ef03cc524d286eb3ffc225a00422ce28f3fe18ab8e622424f0b1c748b45bf9f3",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 41,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 42,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 43,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 44,
+        "mapping": "header",
+        "figures": [
+          "Figure 3.2. Copper T (CuT)",
+          "Figure 3.1 a, b) are barriers made of thin rubber/",
+          "Figure 3.2). IUDs increase phagocytosis of sperms",
+          "Figure 3.1(b) Condom for female",
+          "Figure 3.1(a) Condom for male"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 45,
+        "mapping": "header",
+        "figures": [
+          "Figure 3.3). Their",
+          "Figure 3.3 Implants",
+          "Figure 3.4 (a) Vasectomy Figure 3.4 (b) Tubectomy"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 46,
+        "mapping": "header",
+        "figures": [
+          "Figure 3.4a) whereas in tubectomy, a small part of the fallopian tube is",
+          "Figure 3.4b) or tied up through a small incision in the abdomen"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 47,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 48,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 49,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 50,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 12th/Chapter 3_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-12-04",
+    "class": 12,
+    "subject": "Biology",
+    "number": 4,
+    "title": "Principles of Inheritance and Variation",
+    "file": "public/textbooks/bio-12-04.pdf",
+    "pageCount": 28,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "d5f14fc2248860c029ab10aec2687165ed84d54917c10cd44057574f1c4bb456",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 51,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 52,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 53,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 54,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.1, Table 4.1).",
+          "Figure 4.1 Seven pairs of contrasting traits in"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 55,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.2). He collected the seeds produced",
+          "Figure 4.3). He",
+          "Figure 4.3).",
+          "Figure 4.2 Steps in making a cross in pea"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 56,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.3 Diagrammatic representation"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 57,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.4. It was developed by a British",
+          "Figure 4.4 A Punnett square used to"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 58,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.5 shows the results of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 59,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.5 Diagrammatic representation of a test cross"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 60,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.6). When the F1",
+          "Figure 4.6 Results of monohybrid cross in"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 61,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 62,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.7). Mendel found that the seeds resulting",
+          "Figure 4.7 showing the genotypes of the parent plants. The gametes"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 63,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.7 Results of a dihybrid cross where the two parents differed in two pairs"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": 64,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.7), the phenotypes round, yellow;",
+          "Figure 4.7). Although there are 16 squares how many"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 15,
+        "printedPage": 65,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.8) to explain Mendel’s laws (Table 4.3).",
+          "Figure 4.8 Meiosis and germ cell formation in a cell with four chromosomes."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 16,
+        "printedPage": 66,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.9 Independent assortment of chromosomes",
+          "Figure 4.9). To"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 17,
+        "printedPage": 67,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.10 Drosophila",
+          "Figure 4.10), which were",
+          "Figure 4.11).",
+          "Figure 4.11, Cross A) while others were loosely",
+          "Figure 4.11, Cross B). For"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 18,
+        "printedPage": 68,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.11 Linkage: Results of two dihybrid crosses conducted by Morgan. Cross A shows"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 19,
+        "printedPage": 69,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 20,
+        "printedPage": 70,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.12 a, b).",
+          "Figure\r\n4.12 c). In this case the total number of chromosome is same in both",
+          "Figure 4.12 Determination of sex by chromosomal"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 21,
+        "printedPage": 71,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.13), they do not have father and thus cannot have sons, but",
+          "Figure 4.13 Sex determination in honey bee"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 22,
+        "printedPage": 72,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.13.",
+          "Figure 4.13 Symbols used in the human"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 23,
+        "printedPage": 73,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.14",
+          "Figure 4.14 Representative pedigree analysis of (a) Autosomal dominant trait (for example:"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 24,
+        "printedPage": 74,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.15). The defect is caused by the substitution of Glutamic acid",
+          "Figure 4.15 Micrograph of the red blood cells and the amino acid composition of the relevant"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 25,
+        "printedPage": 75,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.15)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 26,
+        "printedPage": 76,
+        "mapping": "header",
+        "figures": [
+          "Figure 4.16). Palm is broad with characteristic palm",
+          "Figure 4.17 a). Such individuals are sterile.",
+          "Figure 4.17 b).",
+          "Figure 4.16 A representative figure showing an individual inflicted with Down’s",
+          "Figure 4.17 Diagrammatic represe￾ntation of genetic disorders due to sex"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 27,
+        "printedPage": 77,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 28,
+        "printedPage": 78,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 12th/Chapter 4_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-12-05",
+    "class": 12,
+    "subject": "Biology",
+    "number": 5,
+    "title": "Molecular Basis of Inheritance",
+    "file": "public/textbooks/bio-12-05.pdf",
+    "pageCount": 31,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "21d77cdaf37c11b26956bbdae0b9eff9700d723135ac55c1a2141b1caee8f017",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 79,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 80,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.1 A Polynucleotide chain"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 81,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.1).",
+          "Figure 5.2)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 82,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.2 Double stranded polynucleotide chain",
+          "Figure 5.3 DNA double helix",
+          "Figure 5.3)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 83,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.4a Nucleosome",
+          "Figure 5.4b EM picture - ‘Beads-on-String’",
+          "Figure 5.4 a). A",
+          "Figure 5.4 b)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 84,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 85,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 86,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.5).",
+          "Figure 5.5 The Hershey-Chase experiment"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 87,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 88,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.6).",
+          "Figure 5.6 Watson-Crick model for"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 89,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.7 Meselson and Stahl’s Experiment",
+          "Figure 5.7).",
+          "Figure 5.7."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 90,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.8)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 91,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.8 Replicating Fork"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": 92,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.9 Schematic structure of a transcription unit",
+          "Figure 5.9). There are additional regulatory"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 15,
+        "printedPage": 93,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.10 Process of Transcription in Bacteria"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 16,
+        "printedPage": 94,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.10).",
+          "Figure 5.11 Process of Transcription in Eukaryotes"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 17,
+        "printedPage": 95,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.11)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 18,
+        "printedPage": 96,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 19,
+        "printedPage": 97,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 20,
+        "printedPage": 98,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.12). For",
+          "Figure 5.13). The order and sequence of amino acids",
+          "Figure 5.12 tRNA - the adapter molecule"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 21,
+        "printedPage": 99,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.13 Translation"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 22,
+        "printedPage": 100,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.14)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 23,
+        "printedPage": 101,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.14).",
+          "Figure 5.14 The lac Operon"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 24,
+        "printedPage": 102,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 25,
+        "printedPage": 103,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.15). These",
+          "Figure 5.15 A representative diagram of human"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 26,
+        "printedPage": 104,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 27,
+        "printedPage": 105,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 28,
+        "printedPage": 106,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.16.",
+          "Figure 5.16). It differs from individual to individual in a population"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 29,
+        "printedPage": 107,
+        "mapping": "header",
+        "figures": [
+          "Figure 5.16 Schematic representation of DNA fingerprinting : Few representative chromosomes"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 30,
+        "printedPage": 108,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 31,
+        "printedPage": 109,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 12th/Chapter 5_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-12-06",
+    "class": 12,
+    "subject": "Biology",
+    "number": 6,
+    "title": "Evolution",
+    "file": "public/textbooks/bio-12-06.pdf",
+    "pageCount": 17,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "d2a181994b3d2a060226f4bf1b45ad581c6da69a8dd2a01e448704d6ce868071",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 110,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 111,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.1). He created electric discharge in a closed flask containing"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 112,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.1 Diagrammatic representation of Miller’s"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 113,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.2). They represent extinct organisms (e.g., Dinosaurs)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 114,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.2 A family tree of dinosaurs and their living modern day counterpart organisms like",
+          "Figure 6.3b). Though these forelimbs perform different functions in these"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 115,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.3a). Homology is",
+          "Figure 6.3 Example of homologous organs in"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 116,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.4). This understanding is supported by the fact that in areas",
+          "Figure 6.4 Figure showing white - winged moth and dark - winged moth (melanised)"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 117,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.5). This process of evolution of different",
+          "Figure 6.6) evolved from an ancestral stock, but all",
+          "Figure 6.6 Adaptive radiation of marsupials of Australia",
+          "Figure 6.5 Variety of beaks of finches that Darwin found in Galapagos Island"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 118,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.7).",
+          "Figure 6.7 Picture showing convergent evolution"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 119,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 120,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.8 Diagrammatic representation of the operation of natural selection on different"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 121,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.8)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 122,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.9 A sketch of the evolution of plant forms through geological periods"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": 123,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.10 Representative evolutionary history of vertebrates through geological periods"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 15,
+        "printedPage": 124,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.11). These revealed hominid features leading to"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 16,
+        "printedPage": 125,
+        "mapping": "header",
+        "figures": [
+          "Figure 6.11 A comparison of the skulls of adult modern human being, baby chimpanzee and"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 17,
+        "printedPage": 126,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 12th/Chapter 6_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-12-07",
+    "class": 12,
+    "subject": "Biology",
+    "number": 7,
+    "title": "Human Health and Disease",
+    "file": "public/textbooks/bio-12-07.pdf",
+    "pageCount": 22,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "afb1c7c2f7699e0572e09e9ee3279f4e61100ba0b117b3f34b9d1ac10bdeae75",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 127,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 128,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 129,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 130,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 131,
+        "mapping": "header",
+        "figures": [
+          "Figure 7.1).",
+          "Figure 7.1); the female Anopheles"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 132,
+        "mapping": "header",
+        "figures": [
+          "Figure 7.1 Stages in the life cycle of Plasmodium"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 133,
+        "mapping": "header",
+        "figures": [
+          "Figure 7.2). The",
+          "Figure 7.3) are the main symptoms of",
+          "Figure 7.2 Diagram showing",
+          "Figure 7.3 Diagram showing ringworm"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 134,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 135,
+        "mapping": "header",
+        "figures": [
+          "Figure\r\n7.4. Because these antibodies are found in the blood, the response is also",
+          "Figure 7.4 Structure of an antibody molecule"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 136,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 137,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 138,
+        "mapping": "header",
+        "figures": [
+          "Figure 7.5.",
+          "Figure 7.6). Transmission of HIV-infection",
+          "Figure 7.5 Diagrammatic"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 139,
+        "mapping": "header",
+        "figures": [
+          "Figure 7.6 Replication of retrovirus"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": 140,
+        "mapping": "header",
+        "figures": [
+          "Figure 7.6)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 15,
+        "printedPage": 141,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 16,
+        "printedPage": 142,
+        "mapping": "header",
+        "figures": [
+          "Figure 7.7 Chemical structure of Morphine Figure 7.8 Opium poppy",
+          "Figure 7.7), commonly called smack is chemically diacetylmorphine which",
+          "Figure 7.7), which is extracted from the latex of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 17,
+        "printedPage": 143,
+        "mapping": "header",
+        "figures": [
+          "Figure 7.8). Generally taken by snorting",
+          "Figure 7.9), which interact",
+          "Figure 7.10). The flower tops, leaves and the resin of cannabis",
+          "Figure 7.9 Skeletal structure of",
+          "Figure 7.10 Leaves of Cannabis sativa",
+          "Figure 7.11). These days cannabinoids are also",
+          "Figure 7.11 Flowering branch of Datura"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 18,
+        "printedPage": 144,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 19,
+        "printedPage": 145,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 20,
+        "printedPage": 146,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 21,
+        "printedPage": 147,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 22,
+        "printedPage": 148,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 12th/Chapter 7_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-12-08",
+    "class": 12,
+    "subject": "Biology",
+    "number": 8,
+    "title": "Microbes in Human Welfare",
+    "file": "public/textbooks/bio-12-08.pdf",
+    "pageCount": 12,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "e96d234eab38ed70616c77101aedeaf4efa7d92ea8aececeb046d383061f63b7",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 149,
+        "mapping": "sequence-inferred",
+        "figures": [
+          "Figure 8.3), that can"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 150,
+        "mapping": "header",
+        "figures": [
+          "Figure 8.3 (a) Colonies of bacteria growing in a petri dish;",
+          "Figure 8.1 Bacteria: (a) Rod-shaped,",
+          "Figure 8.2 Viruses: (a) A bacteriophage; (b)"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 151,
+        "mapping": "header",
+        "figures": [
+          "Figure 8.4)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 152,
+        "mapping": "header",
+        "figures": [
+          "Figure 8.5.",
+          "Figure 8.5 Fermentation Plant",
+          "Figure 8.4 Fermentors"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 153,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 154,
+        "mapping": "header",
+        "figures": [
+          "Figure 8.6) where it is",
+          "Figure 8.7.",
+          "Figure 8.6 Secondary treatment"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 155,
+        "mapping": "header",
+        "figures": [
+          "Figure 8.7 An aerial view of a sewage plant"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 156,
+        "mapping": "header",
+        "figures": [
+          "Figure 8.8. The",
+          "Figure 8.8 A typical biogas plant"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 157,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 158,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 159,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 160,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 12th/Chapter 8_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-12-09",
+    "class": 12,
+    "subject": "Biology",
+    "number": 9,
+    "title": "Biotechnology: Principles and Processes",
+    "file": "public/textbooks/bio-12-09.pdf",
+    "pageCount": 16,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "c30b908dca8e7166e9830ca48c376a4f0b21d63a8e05bf601a150da031c13122",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 161,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 162,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 163,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 164,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 165,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 166,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.1). Each restriction endonuclease recognises a specific",
+          "Figure 9.1 Steps in formation of recombinant DNA by action of restriction endonuclease"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 167,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.1). These",
+          "Figure 9.2).",
+          "Figure 9.2 Diagrammatic representation of recombinant DNA technology"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 168,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.3 and guess at which end of the gel the",
+          "Figure 9.3). The",
+          "Figure 9.3 A typical agarose gel"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 169,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.4). The ligation",
+          "Figure 9.4 E. coli cloning vector pBR322"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 170,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 171,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.5).",
+          "Figure 9.5 DNA that"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 172,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.3). The process is repeated with the vector DNA also.",
+          "Figure 9.6 Polymerase chain reaction (PCR) : Each cycle has three steps: (i) Denaturation;"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 173,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.6)."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": 174,
+        "mapping": "header",
+        "figures": [
+          "Figure 9.7.",
+          "Figure 9.7 (a) Simple stirred-tank bioreactor; (b) Sparged stirred-tank bioreactor through which"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 15,
+        "printedPage": 175,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 16,
+        "printedPage": 176,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 12th/Chapter 9_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-12-10",
+    "class": 12,
+    "subject": "Biology",
+    "number": 10,
+    "title": "Biotechnology and its Applications",
+    "file": "public/textbooks/bio-12-10.pdf",
+    "pageCount": 11,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "4da2923c699b97a1930ae6b1072bf75fb5b0429d724ead7ba06510f98730b826",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 177,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 178,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 179,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 180,
+        "mapping": "header",
+        "figures": [
+          "Figure 10.1).",
+          "Figure 10.2). The introduction of DNA",
+          "Figure 10.2).",
+          "Figure 10.1 Cotton boll: (a) destroyed by bollworms; (b) a fully mature"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 181,
+        "mapping": "header",
+        "figures": [
+          "Figure 10.3).",
+          "Figure 10.2 Host plant-generated dsRNA triggers protection against nematode infestation:"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 182,
+        "mapping": "header",
+        "figures": [
+          "Figure 10.3 Maturation of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 183,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 184,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 185,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 186,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 187,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 12th/Chapter 10_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-12-11",
+    "class": 12,
+    "subject": "Biology",
+    "number": 11,
+    "title": "Organisms and Populations",
+    "file": "public/textbooks/bio-12-11.pdf",
+    "pageCount": 17,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "5b483a3ee69f88ae67b43daa8095e5e5ba6278bb1f288fb1cdcd3b02f461276f",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 188,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 189,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 190,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 191,
+        "mapping": "header",
+        "figures": [
+          "Figure 11.1). For human population, the"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 192,
+        "mapping": "header",
+        "figures": [
+          "Figure 11.1 Representation of age pyramids for human population"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 193,
+        "mapping": "header",
+        "figures": [
+          "Figure 11.2"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 194,
+        "mapping": "header",
+        "figures": [
+          "Figure 11.3 Population growth curve",
+          "Figure\r\n11.3) and results in a J-shaped curve when we plot"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 195,
+        "mapping": "header",
+        "figures": [
+          "Figure 11.3) and is described by"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 196,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 197,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 198,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 199,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": 200,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 14,
+        "printedPage": 201,
+        "mapping": "header",
+        "figures": [
+          "Figure 11.4 Mutual relationship between fig tree and wasp: (a) Fig flower is pollinated"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 15,
+        "printedPage": 202,
+        "mapping": "header",
+        "figures": [
+          "Figure 11.4). It means that a given fig species can",
+          "Figure 11.5). Not all",
+          "Figure 11.5 Showing bee-a pollinator"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 16,
+        "printedPage": 203,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 17,
+        "printedPage": 204,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 12th/Chapter 11_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-12-12",
+    "class": 12,
+    "subject": "Biology",
+    "number": 12,
+    "title": "Ecosystem",
+    "file": "public/textbooks/bio-12-12.pdf",
+    "pageCount": 11,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "6d73b01f7ad5492d08a67b695ae8c05230631f20b1b40c791ab7435b39d0e59e",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 205,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 206,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 207,
+        "mapping": "header",
+        "figures": [
+          "Figure 12.1). Humification and"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 208,
+        "mapping": "header",
+        "figures": [
+          "Figure 12.1 Diagrammatic representation of decomposition cycle in a terrestrial ecosystem"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 209,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 210,
+        "mapping": "header",
+        "figures": [
+          "Figure 12.2).",
+          "Figure 12.2 Diagrammatic representation of trophic levels in an ecosystem"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 211,
+        "mapping": "header",
+        "figures": [
+          "Figure 12.3 Energy flow through different trophic levels",
+          "Figure 12.3) ."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 212,
+        "mapping": "header",
+        "figures": [
+          "Figure 12.4 a, b, c and d).",
+          "Figure 12.4 (a) Pyramid of numbers in a grassland ecosystem. Only three top-carnivores are",
+          "Figure 12.4 (b) Pyramid of biomass shows a sharp decrease in biomass at higher trophic levels",
+          "Figure 12.4 (c) Inverted pyramid of biomass-small standing crop of phytoplankton supports large"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 213,
+        "mapping": "header",
+        "figures": [
+          "Figure 12.4 (d) An ideal pyramid of energy. Observe that primary producers convert only 1% of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 214,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 215,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      }
+    ],
+    "originalFile": "ncert chapters 12th/Chapter 12_[Philoid-IN].pdf"
+  },
+  {
+    "id": "bio-12-13",
+    "class": 12,
+    "subject": "Biology",
+    "number": 13,
+    "title": "Biodiversity and Conservation",
+    "file": "public/textbooks/bio-12-13.pdf",
+    "pageCount": 13,
+    "readable": true,
+    "edition": "Reprint 2026-27",
+    "sha256": "d4587f07dd122d19493a66fb2aae6f11ae02ef9124dea92634b524f078f20faa",
+    "syllabusStatus": "Review pending",
+    "pages": [
+      {
+        "pdfPage": 1,
+        "printedPage": 216,
+        "mapping": "sequence-inferred",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 2,
+        "printedPage": 217,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 3,
+        "printedPage": 218,
+        "mapping": "header",
+        "figures": [
+          "Figure 13.1, biodiversity",
+          "Figure 13.1 Representing global biodiversity: proportionate number of"
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 4,
+        "printedPage": 219,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 5,
+        "printedPage": 220,
+        "mapping": "header",
+        "figures": [
+          "Figure 13.2 Showing species area relationship."
+        ],
+        "hasText": true
+      },
+      {
+        "pdfPage": 6,
+        "printedPage": 221,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 7,
+        "printedPage": 222,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 223,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 9,
+        "printedPage": 224,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 10,
+        "printedPage": 225,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 11,
+        "printedPage": 226,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 12,
+        "printedPage": 227,
+        "mapping": "header",
+        "figures": [],
+        "hasText": true
+      },
+      {
+        "pdfPage": 13,
+        "printedPage": null,
+        "mapping": "unknown",
+        "figures": [],
+        "hasText": false
+      }
+    ],
+    "originalFile": "ncert chapters 12th/Chapter 13_[Philoid-IN].pdf"
+  }
+]
